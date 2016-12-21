@@ -1,0 +1,8 @@
+2014-11-03  Stephen G. Corbesero  <stephen.corbesero@synchronoss.com>
+
+	* cftgen.sh (2.1.7): added support for BootPriority and Purpose params
+		(2.1.7): createthe new tagInstanceList
+
+2014-10-13  Stephen G. Corbesero  <stephen.corbesero@synchronoss.com>
+
+	* cftgen.sh (VERSION): add version comment and bump version to 2.1.6

@@ -1,0 +1,13 @@
+cfnArg(`hello')
+
+cfnArg(`12345')
+
+cfnArg(`123bad45')
+
+cfnArg(`&hello')
+
+cfnArg(`anything')
+
+cfnArg(`"quoted"')
+
+cfnArg(`{ "Ref" : "a-reference" }')

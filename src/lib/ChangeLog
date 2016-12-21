@@ -1,0 +1,5 @@
+2014-10-13  Stephen G. Corbesero  <stephen.corbesero@synchronoss.com>
+
+	* cf-params.m4: create paramVpnGatewayType macro
+
+	* vpc.m4: create vpn macros mkVpnGateway and attVpnGateway2Vpc
